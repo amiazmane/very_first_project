@@ -1,0 +1,116 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.skipColor {
+  color: orange;
+}
+.dietColor {
+  color: white;
+}
+#pColor {
+  color: white;
+  margin-bottom: 80px;
+}
+#order_food {
+  background-image: linear-gradient(orange, tomato, red);
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 200px;
+  color: white;
+  text-decoration: none;
+}
+.bolderText {
+  font-weight: bolder;
+  font-size: 40px;
+  font-weight: 900;
+}
+.first_half {
+  width: 50%;
+}
+.div1 {
+  margin-left: 100px;
+  margin-top: 150px;
+  margin-right: -80px;
+}
+.div2 {
+  margin-top: 100px;
+  margin-right: 150px;
+  margin-left: 100px;
+  padding: 50px;
+}
+.div3 {
+  margin-top: 100px;
+  text-align: center;
+  color: gray;
+}
+.div4 {
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 10px;
+  text-align: center;
+}
+#div5 {
+  margin-left: 100px;
+  display: flex;
+  box-shadow: 1px 1px 3px silver, -1px 0 0.4em silver;
+  border-radius: 20px;
+  align-items: center;
+}
+
+.Section1 {
+  height: 800px;
+  display: flex;
+  background-image: url(freepik4.png);
+}
+.section2 {
+  background-image: url(7.png);
+  height: 640px;
+  display: flex;
+}
+.section4 {
+  height: 580px;
+  display: flex;
+}
+.section5 {
+  display: flex;
+}
+#aboutMe {
+  color: blue;
+}
+.pLorem {
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+.second_half {
+  width: 50%;
+}
+.half_width {
+  width: 40%;
+  margin: 5%;
+  padding: 20px 20px 0px 20px;
+  box-shadow: 1px 1px 3px silver, -1px 0 0.4em silver;
+  border-radius: 20px;
+}
+.half_width img {
+  width: 100%;
+  border-radius: 15px;
+  height: 250px;
+}
+#footerArea {
+  background-color: black;
+  height: 200px;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+.freshColor {
+  color: gray;
+}
+.footerColor {
+  color: white;
+}
